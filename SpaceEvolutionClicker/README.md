@@ -60,7 +60,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 Terms and conditions:
 
-For more information, read Terms and conditions following the next link: https://spacecatgames.github.io/pages/
+For more information, read [Terms and conditions](https://spacecatgames.github.io/pages/)
 
 Contact Us:
 
